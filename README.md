@@ -30,3 +30,19 @@ Notice for example there is no mesh having between 2562 and 10242 vertices. Usin
 Now there is 15 meshes having between 2562 and 10242 vertices. The advantage is even more pronounced when using higher resolutions.
 
 The code was originally developed for [this work](https://ieeexplore.ieee.org/document/7182720).
+
+## Reference this work
+Dahl, V. A., Dahl, A. B., & Larsen, R. (2014). Surface Detection Using Round Cut. 2014 2nd International Conference on 3D Vision. https://doi.org/10.1109/3dv.2014.60
+
+```bibtex
+@inproceedings{Dahl_2014,
+	doi = {10.1109/3dv.2014.60},
+	url = {https://doi.org/10.1109%2F3dv.2014.60},
+	year = 2014,
+	month = {dec},
+	publisher = {{IEEE}},
+	author = {Vedrana A. Dahl and Anders B. Dahl and Rasmus Larsen},
+	title = {Surface Detection Using Round Cut},
+	booktitle = {2014 2nd International Conference on 3D Vision}
+}
+```
